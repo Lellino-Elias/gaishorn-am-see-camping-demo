@@ -78,14 +78,14 @@ const gaishornAmSee: CampsiteConfig = {
       "Zwanzig nummerierte Plätze auf begrüntem Schotter, Strom an 18 Anschlüssen, Dusch- und WC-Anlage und Zugang rund um die Uhr. Reservieren musst du nicht — abends kommt die Kassa am Platz vorbei.",
     features: [
       {
-        title: "20 Plätze, klar aufgeteilt",
-        text: "Nummerierte Stellplätze für Wohnwagen, Wohnmobil und Zelt auf begrüntem Schotter — Trinkwasser, eine Dusch- und WC-Anlage sowie 18 Stromanschlüsse gehören dazu.",
-        image: { src: `${IMG}/lageplan.webp`, alt: "Lageplan des Campingplatzes Gaishorn am See" },
-      },
-      {
         title: "Mitten im Freizeitgelände",
         text: "Der Platz liegt direkt am Freizeitgelände des Gaishorner Sees — Badebucht, Liegewiese, Kinderspielplatz und Sportflächen nutzt du als Camper gratis mit.",
         image: { src: `${IMG}/seekiosk-see.webp`, alt: "Seekiosk am Gaishorner Badesee mit Blick auf die Gesäuseberge" },
+      },
+      {
+        title: "20 Plätze, klar aufgeteilt",
+        text: "Nummerierte Stellplätze für Wohnwagen, Wohnmobil und Zelt auf begrüntem Schotter — Trinkwasser, eine Dusch- und WC-Anlage sowie 18 Stromanschlüsse gehören dazu.",
+        image: { src: `${IMG}/lageplan.webp`, alt: "Lageplan des Campingplatzes Gaishorn am See" },
       },
       {
         title: "Auch im Winter ein Ziel",
