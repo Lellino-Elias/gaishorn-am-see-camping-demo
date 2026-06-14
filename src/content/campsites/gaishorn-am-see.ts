@@ -79,17 +79,17 @@ const gaishornAmSee: CampsiteConfig = {
     features: [
       {
         title: "Mitten im Freizeitgelände",
-        text: "Der Platz liegt direkt am Freizeitgelände des Gaishorner Sees — Badebucht, Liegewiese, Kinderspielplatz und Sportflächen nutzt du als Camper gratis mit.",
+        text: "Als Camper nutzt du Badebucht, Liegewiese, Spielplatz und Sportflächen am Freizeitgelände gratis.",
         image: { src: `${IMG}/seekiosk-see.webp`, alt: "Seekiosk am Gaishorner Badesee mit Blick auf die Gesäuseberge" },
       },
       {
         title: "20 Plätze, klar aufgeteilt",
-        text: "Nummerierte Stellplätze für Wohnwagen, Wohnmobil und Zelt auf begrüntem Schotter — Trinkwasser, eine Dusch- und WC-Anlage sowie 18 Stromanschlüsse gehören dazu.",
+        text: "Nummerierte Plätze auf begrüntem Schotter mit Trinkwasser, Dusch- und WC-Anlage und 18 Stromanschlüssen.",
         image: { src: `${IMG}/camping-freizeitgelaende.webp`, alt: "Luftbild der Stellplätze am Gaishorner Badesee" },
       },
       {
         title: "Auch im Winter ein Ziel",
-        text: "Wenn der See zufriert, wird die Fläche zur Eisbahn: Eislaufen mit Blick auf die verschneiten Gesäuseberge gehört in Gaishorn zum Winter dazu.",
+        text: "Friert der See zu, wird er zur Eisbahn — Eislaufen mit Blick auf die Gesäuseberge gehört zum Winter.",
         image: { src: `${IMG}/eislaufen-see.webp`, alt: "Eislaufen auf dem gefrorenen Gaishorner See im Winter" },
       },
     ],
@@ -102,7 +102,7 @@ const gaishornAmSee: CampsiteConfig = {
     items: [
       {
         title: "Wandern & Bergtouren",
-        text: "Vom leichten Seewanderweg rund um den See bis zur anspruchsvollen Bergtour auf die Gesäusegipfel — die Wege beginnen quasi am Platz.",
+        text: "Vom Seewanderweg bis zur Bergtour auf die Gesäusegipfel — die Wege starten direkt am Platz.",
         image: { src: `${IMG}/wandern-gesaeuse.webp`, alt: "Wanderer auf einem Bergpfad im Gesäuse bei Gaishorn" },
       },
       {
@@ -112,7 +112,7 @@ const gaishornAmSee: CampsiteConfig = {
       },
       {
         title: "Winter mit Ruhe",
-        text: "Verschneite Wege zum Spazieren und Langlaufen, dazu klare, stille Tage — Gaishorn strahlt auch in der kalten Jahreszeit Gemütlichkeit aus.",
+        text: "Verschneite Wege, klare Stille und Langlaufen — Gaishorn am See hat auch im Winter seinen Reiz.",
         image: { src: `${IMG}/winter-weg.webp`, alt: "Verschneiter Winterweg in der Bergwelt bei Gaishorn am See" },
       },
     ],
