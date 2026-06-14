@@ -85,7 +85,7 @@ const gaishornAmSee: CampsiteConfig = {
       {
         title: "20 Plätze, klar aufgeteilt",
         text: "Nummerierte Stellplätze für Wohnwagen, Wohnmobil und Zelt auf begrüntem Schotter — Trinkwasser, eine Dusch- und WC-Anlage sowie 18 Stromanschlüsse gehören dazu.",
-        image: { src: `${IMG}/lageplan.webp`, alt: "Lageplan des Campingplatzes Gaishorn am See" },
+        image: { src: `${IMG}/camping-freizeitgelaende.webp`, alt: "Luftbild der Stellplätze am Gaishorner Badesee" },
       },
       {
         title: "Auch im Winter ein Ziel",
